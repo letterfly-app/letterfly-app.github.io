@@ -165,3 +165,4 @@ zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
 
 monetrix.ai, 10761, RESELLER
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
