@@ -166,3 +166,4 @@ zmaticoo.com, 5135195, RESELLER
 
 monetrix.ai, 10761, RESELLER
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
