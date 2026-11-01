@@ -167,3 +167,7 @@ zmaticoo.com, 5135195, RESELLER
 monetrix.ai, 10761, RESELLER
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+
+
+# InMobi (AdMob bidding) - from InMobi publisher dashboard 2026-11-01
+inmobi.com, 5390ce9d1ea940f1960ab84f2b77ec39, DIRECT, 83e75a7ae333ca9d
